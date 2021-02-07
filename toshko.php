@@ -1,7 +1,9 @@
 <?php
 
-
-
-for( $j=0; $j < 100; $j++ ){
-	echo 'Hello world!';
+for ($i=0 ; $i < 10 ; $i++ ) { 
+	
+	echo 'hello toshko';
+	echo 'hello toshko';
+	echo 'hello toshko';
+  
 }
